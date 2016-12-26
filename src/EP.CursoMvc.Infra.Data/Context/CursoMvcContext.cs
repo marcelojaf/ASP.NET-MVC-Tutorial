@@ -1,4 +1,5 @@
 ﻿using EP.CursoMvc.Domain.Entities;
+using EP.CursoMvc.Infra.Data.EntityConfig;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -11,7 +12,7 @@ namespace EP.CursoMvc.Infra.Data.Context
 {
     public class CursoMvcContext : DbContext
     {
-        public CursoMvcContext() : base("DefaultConnection")
+        public CursoMvcContext() : base("CursoMvcDB")
         {
 
         }
@@ -35,7 +36,11 @@ namespace EP.CursoMvc.Infra.Data.Context
             modelBuilder.Properties<string>()
                 .Configure(p => p.HasMaxLength(100));
 
+            modelBuilder.Configurations.Add(new ClienteConfig());
+            modelBuilder.Configurations.Add(new EnderecoConfig());
+
             base.OnModelCreating(modelBuilder);
         }
     }
 }
+

@@ -1,11 +1,12 @@
 namespace EP.CursoMvc.Infra.Data.Migrations
 {
+    using Context;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<EP.CursoMvc.Infra.Data.Context.CursoMvcContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<CursoMvcContext>
     {
         public Configuration()
         {

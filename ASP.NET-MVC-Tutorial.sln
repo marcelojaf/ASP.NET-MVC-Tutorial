@@ -26,19 +26,26 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Marcelo|Any CPU = Marcelo|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EE0A2854-6B2E-48C9-B86D-2E7278B40538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EE0A2854-6B2E-48C9-B86D-2E7278B40538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0A2854-6B2E-48C9-B86D-2E7278B40538}.Marcelo|Any CPU.ActiveCfg = Marcelo|Any CPU
+		{EE0A2854-6B2E-48C9-B86D-2E7278B40538}.Marcelo|Any CPU.Build.0 = Marcelo|Any CPU
 		{EE0A2854-6B2E-48C9-B86D-2E7278B40538}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE0A2854-6B2E-48C9-B86D-2E7278B40538}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C3BDF916-BFB3-4546-B4B3-302E2E2D1FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C3BDF916-BFB3-4546-B4B3-302E2E2D1FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BDF916-BFB3-4546-B4B3-302E2E2D1FB0}.Marcelo|Any CPU.ActiveCfg = Marcelo|Any CPU
+		{C3BDF916-BFB3-4546-B4B3-302E2E2D1FB0}.Marcelo|Any CPU.Build.0 = Marcelo|Any CPU
 		{C3BDF916-BFB3-4546-B4B3-302E2E2D1FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3BDF916-BFB3-4546-B4B3-302E2E2D1FB0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5F15D565-5663-4B00-AE0E-1F812CC52CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5F15D565-5663-4B00-AE0E-1F812CC52CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F15D565-5663-4B00-AE0E-1F812CC52CD4}.Marcelo|Any CPU.ActiveCfg = Marcelo|Any CPU
+		{5F15D565-5663-4B00-AE0E-1F812CC52CD4}.Marcelo|Any CPU.Build.0 = Marcelo|Any CPU
 		{5F15D565-5663-4B00-AE0E-1F812CC52CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F15D565-5663-4B00-AE0E-1F812CC52CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
