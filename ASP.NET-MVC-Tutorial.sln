@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP.CursoMvc.Infra.Data", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP.CursoMvc.UI.Mvc", "src\EP.CursoMvc.UI.Mvc\EP.CursoMvc.UI.Mvc.csproj", "{5F15D565-5663-4B00-AE0E-1F812CC52CD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP.CursoMvc.Application", "src\EP.CursoMvc.Application\EP.CursoMvc.Application.csproj", "{3E1D3286-9747-43BF-8458-B9DD6B73EF13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,12 @@ Global
 		{5F15D565-5663-4B00-AE0E-1F812CC52CD4}.Marcelo|Any CPU.Build.0 = Marcelo|Any CPU
 		{5F15D565-5663-4B00-AE0E-1F812CC52CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F15D565-5663-4B00-AE0E-1F812CC52CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E1D3286-9747-43BF-8458-B9DD6B73EF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1D3286-9747-43BF-8458-B9DD6B73EF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1D3286-9747-43BF-8458-B9DD6B73EF13}.Marcelo|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1D3286-9747-43BF-8458-B9DD6B73EF13}.Marcelo|Any CPU.Build.0 = Release|Any CPU
+		{3E1D3286-9747-43BF-8458-B9DD6B73EF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1D3286-9747-43BF-8458-B9DD6B73EF13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +66,6 @@ Global
 		{EE0A2854-6B2E-48C9-B86D-2E7278B40538} = {09CC9D9F-204F-4B8C-A14A-78D06813DA03}
 		{C3BDF916-BFB3-4546-B4B3-302E2E2D1FB0} = {4099F1EE-07DA-4BD8-B21E-A0B93070EB48}
 		{5F15D565-5663-4B00-AE0E-1F812CC52CD4} = {3E5D437E-2A84-45FD-856A-8601521DC260}
+		{3E1D3286-9747-43BF-8458-B9DD6B73EF13} = {B8EB11D8-E4F2-4291-A64F-FB42EC53D0DC}
 	EndGlobalSection
 EndGlobal
