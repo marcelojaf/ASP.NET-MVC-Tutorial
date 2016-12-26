@@ -44,19 +44,27 @@ namespace EP.CursoMvc.Infra.Data.Context
 
         public override int SaveChanges()
         {
-            foreach (var entry in ChangeTracker.Entries().Where(entry => entry.Entity.GetType().GetProperty("DataCadastro") != null))
+            try
             {
-                if (entry.State == EntityState.Added)
+                foreach (var entry in ChangeTracker.Entries().Where(entry => entry.Entity.GetType().GetProperty("DataCadastro") != null))
                 {
-                    entry.Property("DataCadastro").CurrentValue = DateTime.Now;
-                }
+                    if (entry.State == EntityState.Added)
+                    {
+                        entry.Property("DataCadastro").CurrentValue = DateTime.Now;
+                    }
 
-                if (entry.State == EntityState.Modified)
-                {
-                    entry.Property("DataCadastro").IsModified = false;
+                    if (entry.State == EntityState.Modified)
+                    {
+                        entry.Property("DataCadastro").IsModified = false;
+                    }
                 }
+                return base.SaveChanges();
             }
-            return base.SaveChanges();
+            catch (Exception error)
+            {
+                throw new Exception("SaveChanges error: \r\n" + error.Message);
+            }
+            
         }
     }
 }

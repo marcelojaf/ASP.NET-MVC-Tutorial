@@ -2,4 +2,3 @@ D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Domain\bin\Marcelo\EP.Cu
 D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Domain\bin\Marcelo\EP.CursoMvc.Domain.pdb
 D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Domain\obj\Marcelo\EP.CursoMvc.Domain.dll
 D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Domain\obj\Marcelo\EP.CursoMvc.Domain.pdb
-D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Domain\obj\Marcelo\EP.CursoMvc.Domain.csprojResolveAssemblyReference.cache

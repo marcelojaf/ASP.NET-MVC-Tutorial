@@ -13,13 +13,10 @@ namespace EP.CursoMvc.Application.AutoMapper
     {
         public ViewModelToDomainMappingProfile()
         {
-            var config = new MapperConfiguration(x =>
-            {
-                x.CreateMap<ClienteViewModel, Cliente>();
-                x.CreateMap<ClienteEnderecoViewModel, Cliente>();
-                x.CreateMap<EnderecoViewModel, Endereco>();
-                x.CreateMap<ClienteEnderecoViewModel, Endereco>();
-            });
+            CreateMap<ClienteViewModel, Cliente>();
+            CreateMap<ClienteEnderecoViewModel, Cliente>();
+            CreateMap<EnderecoViewModel, Endereco>();
+            CreateMap<ClienteEnderecoViewModel, Endereco>();
         }
 
         public override string ProfileName
