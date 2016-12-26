@@ -56,6 +56,10 @@
     <Compile Include="ViewModels\EnderecoViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\EP.CursoMvc.Domain\EP.CursoMvc.Domain.csproj">
+      <Project>{EE0A2854-6B2E-48C9-B86D-2E7278B40538}</Project>
+      <Name>EP.CursoMvc.Domain</Name>
+    </ProjectReference>
     <ProjectReference Include="..\EP.CursoMvc.Infra.Data\EP.CursoMvc.Infra.Data.csproj">
       <Project>{C3BDF916-BFB3-4546-B4B3-302E2E2D1FB0}</Project>
       <Name>EP.CursoMvc.Infra.Data</Name>

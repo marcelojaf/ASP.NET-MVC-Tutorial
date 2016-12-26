@@ -1,0 +1,13 @@
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\bin\Release\EP.CursoMvc.Application.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\bin\Release\EP.CursoMvc.Application.pdb
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\bin\Release\AutoMapper.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\bin\Release\EP.CursoMvc.Domain.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\bin\Release\EP.CursoMvc.Infra.Data.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\bin\Release\EntityFramework.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\bin\Release\EP.CursoMvc.Domain.pdb
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\bin\Release\EP.CursoMvc.Infra.Data.pdb
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\bin\Release\AutoMapper.xml
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\bin\Release\EntityFramework.xml
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\obj\Release\EP.CursoMvc.Application.csprojResolveAssemblyReference.cache
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\obj\Release\EP.CursoMvc.Application.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Application\obj\Release\EP.CursoMvc.Application.pdb
