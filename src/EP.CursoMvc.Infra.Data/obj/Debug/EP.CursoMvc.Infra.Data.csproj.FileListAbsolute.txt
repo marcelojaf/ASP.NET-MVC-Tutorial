@@ -1,0 +1,12 @@
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.dll.config
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.pdb
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Domain.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Domain.pdb
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.xml
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csprojResolveAssemblyReference.cache
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.pdb
