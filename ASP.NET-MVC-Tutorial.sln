@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP.CursoMvc.UI.Mvc", "src\E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP.CursoMvc.Application", "src\EP.CursoMvc.Application\EP.CursoMvc.Application.csproj", "{3E1D3286-9747-43BF-8458-B9DD6B73EF13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP.CursoMvc.Infra.CrossCutting.MvcFilters", "src\EP.CursoMvc.Infra.CrossCutting.MvcFilters\EP.CursoMvc.Infra.CrossCutting.MvcFilters.csproj", "{17A2A629-62BA-407B-8DAF-5275C3715396}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,12 @@ Global
 		{3E1D3286-9747-43BF-8458-B9DD6B73EF13}.Marcelo|Any CPU.Build.0 = Release|Any CPU
 		{3E1D3286-9747-43BF-8458-B9DD6B73EF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E1D3286-9747-43BF-8458-B9DD6B73EF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A2A629-62BA-407B-8DAF-5275C3715396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A2A629-62BA-407B-8DAF-5275C3715396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A2A629-62BA-407B-8DAF-5275C3715396}.Marcelo|Any CPU.ActiveCfg = Release|Any CPU
+		{17A2A629-62BA-407B-8DAF-5275C3715396}.Marcelo|Any CPU.Build.0 = Release|Any CPU
+		{17A2A629-62BA-407B-8DAF-5275C3715396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A2A629-62BA-407B-8DAF-5275C3715396}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,5 +75,6 @@ Global
 		{C3BDF916-BFB3-4546-B4B3-302E2E2D1FB0} = {4099F1EE-07DA-4BD8-B21E-A0B93070EB48}
 		{5F15D565-5663-4B00-AE0E-1F812CC52CD4} = {3E5D437E-2A84-45FD-856A-8601521DC260}
 		{3E1D3286-9747-43BF-8458-B9DD6B73EF13} = {B8EB11D8-E4F2-4291-A64F-FB42EC53D0DC}
+		{17A2A629-62BA-407B-8DAF-5275C3715396} = {7839F0E4-3CE4-4675-BA8C-EA124B37B5F2}
 	EndGlobalSection
 EndGlobal

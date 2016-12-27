@@ -273,6 +273,10 @@
       <Project>{3e1d3286-9747-43bf-8458-b9dd6b73ef13}</Project>
       <Name>EP.CursoMvc.Application</Name>
     </ProjectReference>
+    <ProjectReference Include="..\EP.CursoMvc.Infra.CrossCutting.MvcFilters\EP.CursoMvc.Infra.CrossCutting.MvcFilters.csproj">
+      <Project>{17a2a629-62ba-407b-8daf-5275c3715396}</Project>
+      <Name>EP.CursoMvc.Infra.CrossCutting.MvcFilters</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -89,3 +89,5 @@ D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.UI.Mvc\bin\EP.CursoMvc.A
 D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.UI.Mvc\bin\EP.CursoMvc.Infra.Data.pdb
 D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.UI.Mvc\bin\EP.CursoMvc.Domain.pdb
 D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.UI.Mvc\bin\AutoMapper.xml
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.UI.Mvc\bin\EP.CursoMvc.Infra.CrossCutting.MvcFilters.dll
+D:\desenvolvimento\ASP.NET-MVC-Tutorial\src\EP.CursoMvc.UI.Mvc\bin\EP.CursoMvc.Infra.CrossCutting.MvcFilters.pdb
